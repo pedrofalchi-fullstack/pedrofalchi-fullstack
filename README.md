@@ -1,7 +1,7 @@
-<h1 align="center">Olá, eu sou o Pedro 👋</h1>
+<h1 align="center">Seja bem vindo ao meu perfil👋</h1>
 
 <p align="center">
-  <em>Desenvolvedor full-stack em formação · FIAP ADS · Caminhando pra cybersec</em>
+  <em>Desenvolvedor full-stack · FIAP ADS · Caminhando pra cybersec</em>
 </p>
 
 ---
@@ -47,5 +47,5 @@ A longo prazo, sigo um caminho que une desenvolvimento e **cibersegurança** —
 ---
 
 <p align="center">
-  <em>"Construindo software com propósito — e com cuidado de quem está de olho na segurança."</em>
+  <em>"Construindo software com propósito e com cuidado de quem está de olho na segurança."</em>
 </p>
